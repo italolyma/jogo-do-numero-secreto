@@ -19,7 +19,7 @@ Este é um simples jogo desenvolvido em HTML, CSS e JavaScript, onde o jogador p
 
 1. Baixe ou clone este repositório.
 ```sh
- git clone https://github.com/seu-usuario/seu-repositorio.git
+ [git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/italolyma/jogo-do-numero-secreto.git)
 ```
 2. Abra o arquivo `index.html` em um navegador.
 
